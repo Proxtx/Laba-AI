@@ -1,0 +1,8 @@
+@font-face {
+  /* SCHRIFTART */
+  font-family: "font1";
+  src: url("font1.otf");
+}
+body {
+  font-family: "font1";
+}
